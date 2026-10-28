@@ -6,12 +6,6 @@ leave requests, and employees mark their own attendance and apply for leave.
 
 **Author:** Sudheer Sahu
 
-## Screenshots
-
-![Dashboard](screenshots/dashboard.png)
-![Employees](screenshots/employees.png)
-![Leaves](screenshots/leaves.png)
-
 ## Features
 
 **Admin**
